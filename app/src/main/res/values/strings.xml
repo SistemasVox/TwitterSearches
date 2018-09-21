@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Twitter Searches</string>
+    <string name="txt1">Enter Twitter search query here</string>
+    <string name="txt2">Tag your query</string>
+    <string name="tagged_searches">Tagged Searches</string>
+    <string name="searchURL">http://mobile.twitter.com/search/</string>
+    <string name="delete">Deletar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="shareSearch">Procurar</string>
+    <string name="OK">OK</string>
+</resources>
